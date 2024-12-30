@@ -39,3 +39,5 @@ function validBraces(braces){
 
   return stack.length === 0; // any unclosed braces left?
 }
+
+// or
